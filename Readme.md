@@ -55,9 +55,18 @@ Another thing which really fascinated me was integration with frameworks like NI
 
 ![Mitre](./Assets/MITRE&ATTACKS.PNG)
 <br>
+<br>
+<br>
+<br>
 ![nist](./Assets/NIST-Controls.PNG)
 <br>
+<br>
+<br>
+<br>
 ![nistControls](./Assets/NIST-Controls.PNG)
+<br>
+<br>
+<br>
 <br>
 ![GeoLocation](./Assets/Geo-Location.PNG)
 
@@ -81,5 +90,8 @@ MISP (Malware Information Sharing Platform) is a tool that allows organizations 
 
 
 ![Misp](./Assets/MISP.PNG)
+<br>
+<br>
+<br>
 <br>
 ![Misp-Alert](./Assets/MISP-Alert.PNG)
