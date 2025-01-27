@@ -83,6 +83,9 @@ This involves identifying malicious software running on your systems. Wazuh uses
 ![Malware](./Assets/Malware-Detection.jpg)
 
 
+## Integration with Firewalls
+I integrated wazuh with firewalls like fortinet and PFsense to collect and analyze log data for security monitoring using Syslog. Firewalls generate logs that contain information about network traffic, blocked connections, and security events. By integrating these logs with Wazuh, I could monitor firewall activity in real-time. 
+
 ## ⚡ Integration With MISP
 
 MISP (Malware Information Sharing Platform) is a tool that allows organizations to share information about threats and attacks. I integrated Wazuh with MISP to enhance threat detection and response. This integration enables Wazuh to receive and act on threat intelligence feeds from MISP, such as indicators of compromise (IOCs) like IP addresses, file hashes, or domain names related to malware or attacks.
